@@ -1,0 +1,45 @@
+body {
+    background-image: url("Ancient Forest.jpeg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+
+    text-align: center;
+    color: azure;
+    font-family: Arial, sans-serif;
+    min-height: 100vh;
+    margin: 0;
+    padding-top: 50px;
+}
+
+h1 {
+    font: 50px 'Cursive';
+    color: azure;
+}
+
+p {
+    font-style: oblique;
+    color: cornsilk;
+    font-size: 18px;
+}
+
+button {
+    background-color: darkgreen;
+    color: white;
+    border: none;
+    padding: 12px 24px;
+    font-size: 16px;
+    border-radius: 8px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: forestgreen;
+    padding: 20px 40px;
+    border: 5px solid rgba(0, 0, 0, 0.3);
+    border-radius: 8px;
+}
+
+p {font-style: oblique;
+    color: cornsilk;}
